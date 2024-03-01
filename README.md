@@ -15,6 +15,16 @@ Welcome to the Blackjack App! This is a simple web-based application that allows
 - HTML5
 - CSS3
 - JavaScript
+- ## Installation
+1. Clone the repository to your local machine:
+    ```
+    git clone https://github.com/your-username/blackjack-app.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd blackjack-app
+    ```
+3. Open the `index.html` file in your web browser to start playing Blackjack!
 
 ## How to Play
 1. Click the "Deal" button to start the game.
