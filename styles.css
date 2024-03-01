@@ -1,0 +1,73 @@
+body {
+  background-color: darkgreen;
+}
+
+/* Style the container for the game */
+.container {
+  margin: 0 auto;
+  width: 600px;
+  padding: 20px;
+}
+
+/* Style the table */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style table rows */
+.row {
+  border-bottom: 1px solid #ddd;
+}
+
+#player-hand,
+#dealer-hand {
+  margin-top: 20px;
+}
+/* Style table cells */
+.cell {
+  padding: 10px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+/* Style the buttons */
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Style the message display */
+#message {
+  margin-top: 10px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #f1c232;
+}
+
+#dealer-name,
+#player-name {
+  font-weight: 700;
+  color: white;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+/* Card Img  */
+img {
+  height: 150px;
+  margin-right: 20px;
+}
