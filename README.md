@@ -27,12 +27,3 @@ Welcome to the Blackjack App! This is a simple web-based application that allows
 ## Demo
 [Link to live demo](#) *(Replace with your live demo link)*
 
-## Screenshots
-*(Add screenshots of your app in action, if available)*
-
-## Contributors
-
-
-
-## License
-This project is licensed under the [MIT License](LICENSE).
