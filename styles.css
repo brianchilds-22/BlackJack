@@ -57,7 +57,7 @@ button:hover {
   font-weight: bold;
   color: #f1c232;
 }
-
+/* Dealer/Player */
 #dealer-name,
 #player-name {
   font-weight: 700;
