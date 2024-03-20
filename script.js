@@ -21,7 +21,7 @@ function createDeck() {
   const deck = [];
   for (let suit of suits) {
     for (let value of values) {
-      const imagePath = `main/images/${value}_of_${suit}.png`;
+      const imagePath = `https://github.com/brianchilds-22/BlackJack/blob/main/images/${value}_of_${suit}.png`;
       deck.push({ suit, value, imagePath });
     }
   }
