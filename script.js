@@ -21,7 +21,7 @@ function createDeck() {
   const deck = [];
   for (let suit of suits) {
     for (let value of values) {
-      const imagePath = `images/10_of_clubs.png`;
+      const imagePath = `./images/10_of_clubs.png`;
       // `./images/${value}_of_${suit}.png`;
       deck.push({ suit, value, imagePath });
     }
